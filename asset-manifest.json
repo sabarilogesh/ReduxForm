@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ReduxForm/static/css/main.50473c66.chunk.css",
+    "main.js": "/ReduxForm/static/js/main.e1c32289.chunk.js",
+    "main.js.map": "/ReduxForm/static/js/main.e1c32289.chunk.js.map",
+    "runtime~main.js": "/ReduxForm/static/js/runtime~main.5c964ad2.js",
+    "runtime~main.js.map": "/ReduxForm/static/js/runtime~main.5c964ad2.js.map",
+    "static/css/2.266e55a5.chunk.css": "/ReduxForm/static/css/2.266e55a5.chunk.css",
+    "static/js/2.80375d62.chunk.js": "/ReduxForm/static/js/2.80375d62.chunk.js",
+    "static/js/2.80375d62.chunk.js.map": "/ReduxForm/static/js/2.80375d62.chunk.js.map",
+    "index.html": "/ReduxForm/index.html",
+    "precache-manifest.b1cac70c07830ab5fa1e6c00ae0e8ade.js": "/ReduxForm/precache-manifest.b1cac70c07830ab5fa1e6c00ae0e8ade.js",
+    "service-worker.js": "/ReduxForm/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/ReduxForm/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.50473c66.chunk.css.map": "/ReduxForm/static/css/main.50473c66.chunk.css.map"
+  }
+}
